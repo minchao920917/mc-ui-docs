@@ -5,11 +5,11 @@ sidebar: auto
 
 ## 联系方式
 
-QQ 邮箱：Uncle_drew@qq.com
+QQ 499790879@qq.com
 
-或者加入 Artitalk 交流群~  群号：1104585229
+或者加入 mc-ui 交流群~  群号：256226641
 
-<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=520e7f864d39813525de483e40e50ffdea7f64715c88aca117169fcdbef6cd14"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="Artitalk 交流群 " title="Artitalk 交流群 "></a>
+<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=bfaPUiUP3osQf0AJJ2N1UzmRt59JJQbN&authKey=jMX9rAYmp83zWrKfxWMeA/iS+cJWwT+d1YKcFreVhE/gVAyl9SuHh9WoRxqzZuAj&noverify=0"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="mc-ui 交流群 " title="mc-ui 交流群 "></a>
 
 ## 支持
 
@@ -17,7 +17,7 @@ QQ 邮箱：Uncle_drew@qq.com
 
 当然您也可以去 GitHub 给本项目点个 star，这就是对本项目最大的支持。
 
-<iframe src="https://ghbtns.com/github-btn.html?user=ArtitalkJS&repo=artitalk&type=star&count=true&size=large&v=2" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+<iframe src="https://ghbtns.com/github-btn.html?user=minchao920917&repo=mch-ui&type=star&count=true&size=large&v=2" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
 
 ## 捐赠
 
@@ -26,28 +26,22 @@ QQ 邮箱：Uncle_drew@qq.com
 
 |  支付宝   | 微信  |
 |  ----  | ----  |
-| <img width="135" src="https://cdn.jsdelivr.net/gh/drew233/cdn/zhifupay.jpg"> | <img width="135" src="https://cdn.jsdelivr.net/gh/drew233/cdn/weixinpay.png"> |
+| <img width="135" src="https://i.loli.net/2021/01/22/KbU7L51cXS4kDuT.png"> | <img width="135" src="https://i.loli.net/2021/01/22/D6cJApgklRorTdt.png"> |
 
 打赏列表
 | 昵称 | 金额 | 留言 |
 | ---- | ---- | ---- |
-| *疚 | 8.88 | 加油，artitalk! |
-| *哼 | 6.66 | 感谢artitalk~，很好用 |
-| Ayan | 6.66 | AT.nb！ |
+| *奔 | 8.88 | 学习了大佬! |
+| *磊 | 6.66 | 学习了~，很好用 |
+
 
 如果你对本项目感兴趣并且有心一起完善功能的，欢迎pr~
 
 ## 👍 特别鸣谢
 
-* 张渔：logo 制作
-* LeanCloud：提供存储服务
-* 憧憬博客：说说主要框架的 css
+
 * VuePress：文档框架
 * GitHub: 代码存储
-* JsDelivr && UNPKG：CDN 支持
-* html5up：demo 页框架
-* valine: 一款简便并实用的评论系统，看了valine的代码，受益匪浅，Respect
-* 去不图床：js内部上传图片（视频）的存储以及cdn加速
 
 <ins class="adsbygoogle"
      style="display:block"

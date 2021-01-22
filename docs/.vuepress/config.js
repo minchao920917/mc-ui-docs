@@ -28,7 +28,6 @@ module.exports = {
     nav: [
       { text: '首页', link: '/' },                      // 根路径
       { text: '使用文档', link: '/doc/' },
-      // { text: '配置项', link: '/settings/' },
       { text: '更新日志', link: '/release/' },
       { text: '关于作者', link: 'http://minchao.me' },
       { text: '联系 or 支持', link: '/contact/' },
