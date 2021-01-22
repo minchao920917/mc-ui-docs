@@ -9,7 +9,7 @@ module.exports = {
   },
   description: 'mc-ui 网站快速成型工具',
   themeConfig: {
-    sidebarDepth: 2,
+   
     collapsable: true,
     yilia_plus: {
       github: false,
@@ -27,15 +27,40 @@ module.exports = {
     },
     nav: [
       { text: '首页', link: '/' },                      // 根路径
-      { text: '使用文档', link: '/doc/' },
-      { text: '更新日志', link: '/release/' },
-      { text: '关于作者', link: 'http://minchao.me' },
+      { text: '使用文档', link: '/mc-ui/' },
       { text: '联系 or 支持', link: '/contact/' },
+      { text: '关于作者', link: 'http://minchao.me' },
       // 下拉列表显示分组
     ],
+    sidebar: {
+      '/mc-ui/': [
+        {
+          title: '使用 Useage',
+          collapsable: false,
+          children: [
+            '',
+            '更新日志',
+          ]
+        },
+        {
+          title: '基础组件 Basic',
+          collapsable: false,
+          children: [
+            '色彩',
+            '布局',
+            '字体图标',
+            '按钮'
+          ]
+        },
+       
+      ]
+    },  
+    sidebarDepth: 4,
     logo: '/logo.png',
   },
+
   markdown: {
-    plugins: ['task-lists']
-  }
+    lineNumbers: true
+  },
+  plugins: ['demo-container']
 }

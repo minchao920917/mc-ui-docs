@@ -1,18 +1,18 @@
 ---
 home: true
 heroImage: '/logo.png'
-actionText: 使用文档 →
-actionLink: /doc/
-features:
-- title: 🤞使用方便
-  details: 简略的 html 片段即可实现，且理论上支持任何框架或单独页面。
-- title: 🔐安全性高
-  details: 直接通过 LeanCloud 的用户系统，保证只有站长可控发布权限。
-- title: 🎁多功能输入
-  details: 多功能输入框，满足你的一切需求
+
+
 footer: MIT Licensed | Copyright © 2020-present Uncle_drew
 ---
 <center>
+
+<div class="introduce">  
+<a href="https://sm.ms/image/aKYMJ8ckEUQmb7F" target="_blank"><img src="https://i.loli.net/2021/01/08/aKYMJ8ckEUQmb7F.png" ></a>
+<h4 class="introduce-title">mc-ui 网站快速成型工具</h4>
+<p class="introduce-p">一套为开发者准备的基于 Vue 2.0 的桌面端组件库</p>
+</div>
+
 
 项目地址：[github/mch-ui](https://github.com/minchao920917/mch-ui)
 
