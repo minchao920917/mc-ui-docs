@@ -1,9 +1,5 @@
 ---
-home: true
-heroImage: '/logo.png'
-
-
-footer: MIT Licensed | Copyright © 2020-present Uncle_drew
+home: false
 ---
 <center>
 
@@ -11,6 +7,9 @@ footer: MIT Licensed | Copyright © 2020-present Uncle_drew
 <a href="https://sm.ms/image/aKYMJ8ckEUQmb7F" target="_blank"><img src="https://i.loli.net/2021/01/08/aKYMJ8ckEUQmb7F.png" ></a>
 <h4 class="introduce-title">mc-ui 网站快速成型工具</h4>
 <p class="introduce-p">一套为开发者准备的基于 Vue 2.0 的桌面端组件库</p>
+
+<mc-btn :type="'primary'" :size="'giant'">开始使用</mc-btn>
+
 </div>
 
 
