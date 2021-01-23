@@ -8,8 +8,7 @@ home: false
 <h4 class="introduce-title">mc-ui 网站快速成型工具</h4>
 <p class="introduce-p">一套为开发者准备的基于 Vue 2.0 的桌面端组件库</p>
 
-<mc-btn :type="'primary'" :size="'giant'">开始使用</mc-btn>
-
+<mc-btn :type="'primary'" :size="'giant'"><NavLink class="action-button" :item="actionLink"/></mc-btn>
 </div>
 
 
@@ -21,3 +20,25 @@ home: false
 ![language](https://img.shields.io/badge/language-vue-red)
 
 </center>
+
+
+<script>
+import NavLink from '@parent-theme/components/NavLink.vue'
+
+export default {
+  components: { 
+    NavLink
+  },
+  computed: {
+    data () {
+      
+    },
+    actionLink () {
+      return {
+        link: '/mc-ui/',
+        text: '开始使用'
+      }
+    }
+  }
+}
+</script>
