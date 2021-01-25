@@ -5,7 +5,7 @@
         &copy; {{ data.since && data.since < nowYear ? data.since + '-' : '' }}{{nowYear}}
         <span v-if="data.author" v-html="data.author"></span>
       </div>
-      <div class="footer-right" v-if="defaultLitten" v-html="defaultLitten"></div>
+      <!-- <div class="footer-right" v-if="defaultLitten" v-html="defaultLitten"></div> -->
     </div>
     <Busuanzi v-if="data.busuanzi && data.busuanzi.enable" />
   </div>
