@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "markdown-it-task-lists": "^2.1.1",
-    "mch-ui": "^0.1.2",
+    "mch-ui": "^0.1.3",
     "vuepress-theme-yilia-plus": "^1.0.0"
   }
 }
